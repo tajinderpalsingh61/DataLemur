@@ -32,6 +32,7 @@ These repository contains solution for questions available on "https://datalemur
 | Hard | [Alibaba Compressed Median](https://datalemur.com/questions/alibaba-compressed-median) | [Solution](SQL/Hard/alibaba-compressed-median.sql) | Alibaba
 | Hard | [Repeated Payments](https://datalemur.com/questions/repeated-payments) | [Solution](SQL/Hard/repeated-payments.sql) | Stripe
 | Hard | [User Retention](https://datalemur.com/questions/user-retention) | [Solution](SQL/Hard/user-retention.sql) | Facebook
+| Hard | [YoY Growth Rate](https://datalemur.com/questions/user-yoy-growth-rate) | [Solution](SQL/Hard/yoy-growth-rate.sql) | Wayfair
 
 
 ## Support
