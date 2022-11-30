@@ -34,6 +34,7 @@ These repository contains solution for questions available on "https://datalemur
 | Hard | [User Retention](https://datalemur.com/questions/user-retention) | [Solution](SQL/Hard/user-retention.sql) | Facebook
 | Hard | [YoY Growth Rate](https://datalemur.com/questions/user-yoy-growth-rate) | [Solution](SQL/Hard/yoy-growth-rate.sql) | Wayfair
 | Hard | [Consecutive Filing Years](https://datalemur.com/questions/consecutive-filing-years) | [Solution](SQL/Hard/consecutive-filing-years.sql) | Intuit
+| Hard | [Pizzas Topping Cost](https://datalemur.com/questions/pizzas-topping-cost) | [Solution](SQL/Hard/pizzas-topping-cost.sql) | McKinsey
 
 
 
