@@ -36,6 +36,7 @@ These repository contains solution for questions available on "https://datalemur
 | Hard | [Consecutive Filing Years](https://datalemur.com/questions/consecutive-filing-years) | [Solution](SQL/Hard/consecutive-filing-years.sql) | Intuit
 | Hard | [Pizzas Topping Cost](https://datalemur.com/questions/pizzas-topping-cost) | [Solution](SQL/Hard/pizzas-topping-cost.sql) | McKinsey
 | Hard | [Prime Warehouse Storage](https://datalemur.com/questions/prime-warehouse-storage) | [Solution](SQL/Hard/prime-warehouse-storage.sql) | Amazon
+| Hard | [Median Search Freq](https://datalemur.com/questions/median-search-freq) | [Solution](SQL/Hard/median-search-freq.sql) | Google
 
 
 
