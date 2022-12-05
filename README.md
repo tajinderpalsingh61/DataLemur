@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#sql">SQL</a> •
+  <a href="#statistics">Statistics</a> •
   <a href="#support">Support</a> •
 </p>
 
@@ -39,8 +40,11 @@ These repository contains solution for questions available on "https://datalemur
 | Hard | [Median Search Freq](https://datalemur.com/questions/median-search-freq) | [Solution](SQL/Hard/median-search-freq.sql) | Google
 | Hard | [Updated Status](https://datalemur.com/questions/updated-status) | [Solution](SQL/Hard/updated-status.sql) | Facebook
 
+## Statistics
 
-
+| Level | Question | Solution | Company |
+|:------:|------|---------|:---------:|
+| Easy | [4 rolls to 4](https://datalemur.com/questions/4-rolls-to-4) | [Solution](Statistics/Easy/4-rolls-to-4.ipynb) | Visa |
 
 
 ## Support
