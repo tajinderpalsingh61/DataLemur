@@ -1,6 +1,6 @@
 -- https://datalemur.com/questions/sql-rolling-earnings
 
-SELECT user_id, transaction_date, amount,
+SELECT user_id, transaction_date,
 sum(amount) over(PARTITION BY user_id order by transaction_date
 range BETWEEN interval '2 days' preceding and current row) as rolling_earnings_3d
 from
