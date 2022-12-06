@@ -39,6 +39,7 @@ These repository contains solution for questions available on "https://datalemur
 | Hard | [Prime Warehouse Storage](https://datalemur.com/questions/prime-warehouse-storage) | [Solution](SQL/Hard/prime-warehouse-storage.sql) | Amazon
 | Hard | [Median Search Freq](https://datalemur.com/questions/median-search-freq) | [Solution](SQL/Hard/median-search-freq.sql) | Google
 | Hard | [Updated Status](https://datalemur.com/questions/updated-status) | [Solution](SQL/Hard/updated-status.sql) | Facebook
+| Hard | [Sql Rolling Earnings](https://datalemur.com/questions/sql-rolling-earnings) | [Solution](SQL/Hard/sql-rolling-earnings.sql) | Stripe
 
 ## Statistics
 
