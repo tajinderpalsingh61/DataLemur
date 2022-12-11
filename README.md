@@ -25,6 +25,7 @@ These repository contains solution for questions available on "https://datalemur
 | Easy | [Trade in payouts](https://datalemur.com/questions/trade-in-payouts) | [Solution](SQL/Easy/trade-in-payouts.sql)| Apple |
 | Easy | [Tesla Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](SQL/Easy/tesla-unfinished-parts.sql)| Tesla |
 | Easy | [Laptop Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](SQL/Easy/laptop-mobile-viewership.sql)| New York Times |
+| Easy | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](SQL/Easy/duplicate-job-listings.sql)| Linkedin |
 | Medium | [Book Referral Source](https://datalemur.com/questions/booking-referral-source) | [Solution](SQL/Medium/booking-referral-source.sql)| Airbnb |
 | Medium | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution](SQL/Medium/sales-team-compensation.sql)| Oracle |
 | Medium | [2nd Ride delay](https://datalemur.com/questions/2nd-ride-delay) | [Solution](SQL/Medium/2nd-ride-delay.sql)| Uber |
