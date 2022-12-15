@@ -28,6 +28,7 @@ These repository contains solution for questions available on "https://datalemur
 | Easy | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](SQL/Easy/duplicate-job-listings.sql)| Linkedin |
 | Easy | [Sql Average Post Hiatus 1](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](SQL/Easy/sql-average-post-hiatus-1.sql)| Facebook |
 | Easy | [Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](SQL/Easy/completed-trades.sql)| Robinhood |
+| Easy | [Sql Avg Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](SQL/Easy/sql-avg-review-ratings.sql)| Amazon |
 | Medium | [Book Referral Source](https://datalemur.com/questions/booking-referral-source) | [Solution](SQL/Medium/booking-referralsource.sql)| Airbnb |
 | Medium | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution](SQL/Medium/sales-team-compensation.sql)| Oracle |
 | Medium | [2nd Ride delay](https://datalemur.com/questions/2nd-ride-delay) | [Solution](SQL/Medium/2nd-ride-delay.sql)| Uber |
