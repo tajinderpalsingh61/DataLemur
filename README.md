@@ -32,6 +32,7 @@ These repository contains solution for questions available on "https://datalemur
 | Easy | [Click Through Rate](https://datalemur.com/questions/click-through-rate) | [Solution](SQL/Easy/click-through-rate.sql)| Facebook |
 | Easy | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](SQL/Easy/second-day-confirmation.sql)| TikTok |
 | Easy | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](SQL/Easy/cards-issued-difference.sql)| JPMorgan Chase |
+| Easy | [Alibaba Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](SQL/Easy/alibaba-compressed-mean.sql)| Alibaba |
 | Medium | [Book Referral Source](https://datalemur.com/questions/booking-referral-source) | [Solution](SQL/Medium/booking-referralsource.sql)| Airbnb |
 | Medium | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution](SQL/Medium/sales-team-compensation.sql)| Oracle |
 | Medium | [2nd Ride delay](https://datalemur.com/questions/2nd-ride-delay) | [Solution](SQL/Medium/2nd-ride-delay.sql)| Uber |
