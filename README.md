@@ -35,6 +35,7 @@ These repository contains solution for questions available on "https://datalemur
 | Easy | [Alibaba Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](SQL/Easy/alibaba-compressed-mean.sql)| Alibaba |
 | Easy | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](SQL/Easy/teams-power-users.sql)| Microsoft |
 | Easy | [Top Profitable Drugs](https://datalemur.com/questions/top-profitable-drugs) | [Solution](SQL/Easy/top-profitable-drugs.sql)| CVS Health |
+| Easy | [Non Profitable Drugs](https://datalemur.com/questions/non-profitable-drugs) | [Solution](SQL/Easy/non-profitable-drugs.sql)| CVS Health |
 | Medium | [Book Referral Source](https://datalemur.com/questions/booking-referral-source) | [Solution](SQL/Medium/booking-referralsource.sql)| Airbnb |
 | Medium | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution](SQL/Medium/sales-team-compensation.sql)| Oracle |
 | Medium | [2nd Ride delay](https://datalemur.com/questions/2nd-ride-delay) | [Solution](SQL/Medium/2nd-ride-delay.sql)| Uber |
