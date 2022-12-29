@@ -1,6 +1,6 @@
 --https://datalemur.com/questions/frequent-callers
 
-select count(policy_holder_id)
+select count(policy_holder_id) as member_count
 FROM(
 SELECT policy_holder_id, count(case_id) as cnt
 FROM callers
