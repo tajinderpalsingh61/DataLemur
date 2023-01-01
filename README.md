@@ -43,6 +43,7 @@ These repository contains solution for questions available on "https://datalemur
 | Medium | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution](SQL/Medium/sales-team-compensation.sql)| Oracle |
 | Medium | [2nd Ride delay](https://datalemur.com/questions/2nd-ride-delay) | [Solution](SQL/Medium/2nd-ride-delay.sql)| Uber |
 | Medium | [Sql Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](SQL/Medium/sql-third-transaction.sql)| Uber |
+| Medium | [Time Spent Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](SQL/Medium/time-spent-snaps.sql)| Snapchat |
 | Hard | [SQL Average Post Hiatus 2](https://datalemur.com/questions/sql-average-post-hiatus-2) | [Solution](SQL/Hard/sql-average-post-hiatus-2.sql)| Facebook |
 | Hard | [Marketing Touch-Streak](https://datalemur.com/questions/marketing-touch-streak) | [Solution](SQL/Hard/marketing-touch-streak.sql) | Snowflake
 | Hard | [Alibaba Compressed Median](https://datalemur.com/questions/alibaba-compressed-median) | [Solution](SQL/Hard/alibaba-compressed-median.sql) | Alibaba
