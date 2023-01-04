@@ -45,6 +45,7 @@ These repository contains solution for questions available on "https://datalemur
 | Medium | [Sql Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](SQL/Medium/sql-third-transaction.sql)| Uber |
 | Medium | [Time Spent Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](SQL/Medium/time-spent-snaps.sql)| Snapchat |
 | Medium | [Rolling Average Tweets](https://datalemur.com/questions/rolling-average-tweets) | [Solution](SQL/Medium/rolling-average-tweets.sql)| Twitter |
+| Medium | [Sql Highest Grossing](https://datalemur.com/questions/sql-highest-grossing) | [Solution](SQL/Medium/sql-highest-grossing.sql)| Amazon |
 | Hard | [SQL Average Post Hiatus 2](https://datalemur.com/questions/sql-average-post-hiatus-2) | [Solution](SQL/Hard/sql-average-post-hiatus-2.sql)| Facebook |
 | Hard | [Marketing Touch-Streak](https://datalemur.com/questions/marketing-touch-streak) | [Solution](SQL/Hard/marketing-touch-streak.sql) | Snowflake
 | Hard | [Alibaba Compressed Median](https://datalemur.com/questions/alibaba-compressed-median) | [Solution](SQL/Hard/alibaba-compressed-median.sql) | Alibaba
