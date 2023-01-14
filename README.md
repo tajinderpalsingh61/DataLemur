@@ -49,6 +49,7 @@ These repository contains solution for questions available on "https://datalemur
 | Medium | [Top Fans Rank](https://datalemur.com/questions/top-fans-rank) | [Solution](SQL/Medium/top-fans-rank.sql)| Spotify |
 | Medium | [Signup Confirmation rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](SQL/Medium/signup-confirmation-rate.sql)| Tiktok |
 | Medium | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](SQL/Medium/frequently-purchased-pairs.sql)| Walmart |
+| Medium | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](SQL/Medium/supercloud-customer.sql)| Microsoft |
 | Hard | [SQL Average Post Hiatus 2](https://datalemur.com/questions/sql-average-post-hiatus-2) | [Solution](SQL/Hard/sql-average-post-hiatus-2.sql)| Facebook |
 | Hard | [Marketing Touch-Streak](https://datalemur.com/questions/marketing-touch-streak) | [Solution](SQL/Hard/marketing-touch-streak.sql) | Snowflake
 | Hard | [Alibaba Compressed Median](https://datalemur.com/questions/alibaba-compressed-median) | [Solution](SQL/Hard/alibaba-compressed-median.sql) | Alibaba
