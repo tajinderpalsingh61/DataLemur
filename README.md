@@ -51,6 +51,7 @@ These repository contains solution for questions available on "https://datalemur
 | Medium | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](SQL/Medium/frequently-purchased-pairs.sql)| Walmart |
 | Medium | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](SQL/Medium/supercloud-customer.sql)| Microsoft |
 | Medium | [Histogram Users Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](SQL/Medium/histogram-users-purchases.sql)| Walmart |
+| Medium | [Odd Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](SQL/Medium/odd-even-measurements.sql)| Google |
 | Hard | [SQL Average Post Hiatus 2](https://datalemur.com/questions/sql-average-post-hiatus-2) | [Solution](SQL/Hard/sql-average-post-hiatus-2.sql)| Facebook |
 | Hard | [Marketing Touch-Streak](https://datalemur.com/questions/marketing-touch-streak) | [Solution](SQL/Hard/marketing-touch-streak.sql) | Snowflake
 | Hard | [Alibaba Compressed Median](https://datalemur.com/questions/alibaba-compressed-median) | [Solution](SQL/Hard/alibaba-compressed-median.sql) | Alibaba
