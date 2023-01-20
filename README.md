@@ -53,6 +53,7 @@ These repository contains solution for questions available on "https://datalemur
 | Medium | [Histogram Users Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](SQL/Medium/histogram-users-purchases.sql)| Walmart |
 | Medium | [Odd Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](SQL/Medium/odd-even-measurements.sql)| Google |
 | Medium | [Alibaba Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution](SQL/Medium/alibaba-compressed-mode.sql)| Alibaba |
+| Medium | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | [Solution](SQL/Medium/card-launch-success.sql)| JPMorgan Chase |
 | Hard | [SQL Average Post Hiatus 2](https://datalemur.com/questions/sql-average-post-hiatus-2) | [Solution](SQL/Hard/sql-average-post-hiatus-2.sql)| Facebook |
 | Hard | [Marketing Touch-Streak](https://datalemur.com/questions/marketing-touch-streak) | [Solution](SQL/Hard/marketing-touch-streak.sql) | Snowflake
 | Hard | [Alibaba Compressed Median](https://datalemur.com/questions/alibaba-compressed-median) | [Solution](SQL/Hard/alibaba-compressed-median.sql) | Alibaba
