@@ -68,6 +68,8 @@ These repository contains solution for questions available on "https://datalemur
 | Hard | [Updated Status](https://datalemur.com/questions/updated-status) | [Solution](SQL/Hard/updated-status.sql) | Facebook
 | Hard | [Sql Rolling Earnings](https://datalemur.com/questions/sql-rolling-earnings) | [Solution](SQL/Hard/sql-rolling-earnings.sql) | Stripe
 | Hard | [Patient Call History](https://datalemur.com/questions/patient-call-history) | [Solution](SQL/Hard/patient-call-history.sql) | UnitedHealth
+| Hard | [Long Calls Growth](https://datalemur.com/questions/long-calls-growth) | [Solution](SQL/Hard/long-calls-growth.sql) | UnitedHealth
+
 
 
 ## Statistics
