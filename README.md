@@ -77,6 +77,7 @@ These repository contains solution for questions available on "https://datalemur
 | Level | Question | Solution | Company |
 |:------:|------|---------|:---------:|
 | Easy | [4 rolls to 4](https://datalemur.com/questions/4-rolls-to-4) | [Solution](Statistics/Easy/4-rolls-to-4.ipynb) | Visa |
+| Easy | [Coin Fairness Test](https://datalemur.com/questions/coin-fairness-test) | [Solution](Statistics/Easy/coin-fairness-test.ipynb) | Facebook |
 
 
 ## Support
