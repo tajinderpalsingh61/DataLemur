@@ -79,6 +79,7 @@ These repository contains solution for questions available on "https://datalemur
 |:------:|------|---------|:---------:|
 | Easy | [4 rolls to 4](https://datalemur.com/questions/4-rolls-to-4) | [Solution](Statistics/Easy/4-rolls-to-4.ipynb) | Visa |
 | Easy | [Coin Fairness Test](https://datalemur.com/questions/coin-fairness-test) | [Solution](Statistics/Easy/coin-fairness-test.ipynb) | Facebook |
+| Easy | [R Squared Misuse](https://datalemur.com/questions/r-squared-misuse) | [Solution](Statistics/Easy/r-squared-misuse.ipynb) | Amazon
 
 
 ## Support
