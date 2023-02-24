@@ -6,6 +6,7 @@
   <a href="#overview">Overview</a> •
   <a href="#sql">SQL</a> •
   <a href="#statistics">Statistics</a> •
+  <a href="#probability">Probability</a> •
   <a href="#support">Support</a> •
 </p>
 
@@ -82,6 +83,13 @@ These repository contains solution for questions available on "https://datalemur
 | Easy | [R Squared Misuse](https://datalemur.com/questions/r-squared-misuse) | [Solution](Statistics/Easy/r-squared-misuse.ipynb) | Amazon
 | Easy | [Layman Hypothesis P-value](https://datalemur.com/questions/layman-hypothesis-p-value) | [Solution](Statistics/Easy/layman-hypothesis-p-value.ipynb) | Uber
 | Easy | [Coin Fairness Test](https://datalemur.com/questions/coin-fairness-test) | [Solution](Statistics/Easy/coin-fairness-test.ipynb) | BCG Gamma
+
+
+## Probability
+| Level | Question | Solution | Company |
+|:------:|------|---------|:---------:|
+| Medium | [Netflix Interview Lazy Raters](https://datalemur.com/questions/netflix-interview-lazy-raters) | [Solution](Probability/Medium/netflix-interview-lazy-raters.ipynb) | Netflix |
+
 
 
 
