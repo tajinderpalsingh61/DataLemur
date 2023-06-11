@@ -1,6 +1,6 @@
 -- https://datalemur.com/questions/matching-skills
 
--- SOlution 1:
+-- Solution 1:
 SELECT candidate_id
 FROM candidates
 WHERE skill IN ('Python', 'Tableau', 'PostgreSQL')
