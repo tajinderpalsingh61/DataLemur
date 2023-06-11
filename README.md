@@ -18,9 +18,9 @@ These repository contains solution for questions available on "https://datalemur
 
 ## SQL
 
-| Level | Question | Solution | Company |
-|:------:|------|---------|:---------:|
-| Easy | [Matching Skills](https://datalemur.com/questions/matching-skills) | [Solution](SQL/Easy/matching-skills.sql) | Linkedln |
+| Level | Question | Solution | Company | Solution Video
+|:------:|------|---------|:---------:|:---------:|
+| Easy | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](SQL/Easy/matching-skills.sql) | Linkedln |[Youtube](https://youtu.be/5HBgE9GW8N0)
 | Easy | [Revenue by product line](https://datalemur.com/questions/revenue-by-product-line) | [Solution](SQL/Easy/revenue-by-product-line.sql)| Nvidia |
 | Easy | [SQL page with no likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](SQL/Easy/sql-page-with-no-likes.sql)| Facebook |
 | Easy | [Trade in payouts](https://datalemur.com/questions/trade-in-payouts) | [Solution](SQL/Easy/trade-in-payouts.sql)| Apple |
@@ -62,7 +62,7 @@ These repository contains solution for questions available on "https://datalemur
 | Hard | [Alibaba Compressed Median](https://datalemur.com/questions/alibaba-compressed-median) | [Solution](SQL/Hard/alibaba-compressed-median.sql) | Alibaba
 | Hard | [Repeated Payments](https://datalemur.com/questions/repeated-payments) | [Solution](SQL/Hard/repeated-payments.sql) | Stripe
 | Hard | [User Retention](https://datalemur.com/questions/user-retention) | [Solution](SQL/Hard/user-retention.sql) | Facebook
-| Hard | [YoY Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](SQL/Hard/yoy-growth-rate.sql) | Wayfair
+| Hard | [YoY Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](SQL/Hard/yoy-growth-rate.sql) | Wayfair |[Youtube](https://youtu.be/xKWrABnOzww)
 | Hard | [Consecutive Filing Years](https://datalemur.com/questions/consecutive-filing-years) | [Solution](SQL/Hard/consecutive-filing-years.sql) | Intuit
 | Hard | [Pizzas Topping Cost](https://datalemur.com/questions/pizzas-topping-cost) | [Solution](SQL/Hard/pizzas-topping-cost.sql) | McKinsey
 | Hard | [Prime Warehouse Storage](https://datalemur.com/questions/prime-warehouse-storage) | [Solution](SQL/Hard/prime-warehouse-storage.sql) | Amazon
