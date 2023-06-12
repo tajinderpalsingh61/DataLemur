@@ -41,6 +41,7 @@ These repository contains solution for questions available on "https://datalemur
 | Easy | [Frequent Callers](https://datalemur.com/questions/frequent-callers) | [Solution](SQL/Easy/frequent-callers.sql)| United health |
 | Easy | [Uncategorized Calls Percentage](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](SQL/Easy/uncategorized-calls-percentage.sql)| United health |
 | Easy | [Sql Average Deal Size](https://datalemur.com/questions/sql-average-deal-size) | [Solution](SQL/Easy/sql-average-deal-size.sql)| Salesforce |
+| Easy | [Sql Histogram Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](SQL/Easy/sql-histogram-tweets.sql)| Twitter |
 | Medium | [Book Referral Source](https://datalemur.com/questions/booking-referral-source) | [Solution](SQL/Medium/booking-referralsource.sql)| Airbnb |
 | Medium | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution](SQL/Medium/sales-team-compensation.sql)| Oracle |
 | Medium | [2nd Ride delay](https://datalemur.com/questions/2nd-ride-delay) | [Solution](SQL/Medium/2nd-ride-delay.sql)| Uber |
