@@ -22,15 +22,15 @@ These repository contains solution for questions available on "https://datalemur
 |:------:|------|---------|:---------:|:---------:|
 | Easy | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](SQL/Easy/matching-skills.sql) | Linkedln |[Youtube](https://youtu.be/5HBgE9GW8N0)
 | Easy | [Revenue by product line](https://datalemur.com/questions/revenue-by-product-line) | [Solution](SQL/Easy/revenue-by-product-line.sql)| Nvidia |
-| Easy | [SQL page with no likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](SQL/Easy/sql-page-with-no-likes.sql)| Facebook |[Youtube](https://youtu.be/7kWWYAlyioE)
+| Easy | [page with no likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](SQL/Easy/page-with-no-likes.sql)| Facebook |[Youtube](https://youtu.be/7kWWYAlyioE)
 | Easy | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](unfinished-parts.sql) | Tesla |[Youtube]()
 | Easy | [Trade in payouts](https://datalemur.com/questions/trade-in-payouts) | [Solution](SQL/Easy/trade-in-payouts.sql)| Apple |
 | Easy | [Tesla Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](SQL/Easy/tesla-unfinished-parts.sql)| Tesla |
 | Easy | [Laptop Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](SQL/Easy/laptop-mobile-viewership.sql)| New York Times |
 | Easy | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](SQL/Easy/duplicate-job-listings.sql)| Linkedin |
-| Easy | [Sql Average Post Hiatus 1](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](SQL/Easy/sql-average-post-hiatus-1.sql)| Facebook |
+| Easy | [Average Post Hiatus 1](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](SQL/Easy/average-post-hiatus-1.sql)| Facebook |
 | Easy | [Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](SQL/Easy/completed-trades.sql)| Robinhood |
-| Easy | [Sql Avg Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](SQL/Easy/sql-avg-review-ratings.sql)| Amazon |
+| Easy | [Avg Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](SQL/Easy/avg-review-ratings.sql)| Amazon |
 | Easy | [Click Through Rate](https://datalemur.com/questions/click-through-rate) | [Solution](SQL/Easy/click-through-rate.sql)| Facebook |
 | Easy | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](SQL/Easy/second-day-confirmation.sql)| TikTok |
 | Easy | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](SQL/Easy/cards-issued-difference.sql)| JPMorgan Chase |
@@ -41,8 +41,8 @@ These repository contains solution for questions available on "https://datalemur
 | Easy | [Total Drugs Sales](https://datalemur.com/questions/total-drugs-sales) | [Solution](SQL/Easy/total-drugs-sales.sql)| CVS Health |
 | Easy | [Frequent Callers](https://datalemur.com/questions/frequent-callers) | [Solution](SQL/Easy/frequent-callers.sql)| United health |
 | Easy | [Uncategorized Calls Percentage](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](SQL/Easy/uncategorized-calls-percentage.sql)| United health |
-| Easy | [Sql Average Deal Size](https://datalemur.com/questions/sql-average-deal-size) | [Solution](SQL/Easy/sql-average-deal-size.sql)| Salesforce |
-| Easy | [Sql Histogram Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](SQL/Easy/sql-histogram-tweets.sql)| Twitter | [Youtube](https://youtu.be/0J9AUEPusS0) 
+| Easy | [Average Deal Size](https://datalemur.com/questions/sql-average-deal-size) | [Solution](SQL/Easy/average-deal-size.sql)| Salesforce |
+| Easy | [Histogram Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](SQL/Easy/histogram-tweets.sql)| Twitter | [Youtube](https://youtu.be/0J9AUEPusS0) 
 | Medium | [Book Referral Source](https://datalemur.com/questions/booking-referral-source) | [Solution](SQL/Medium/booking-referralsource.sql)| Airbnb |
 | Medium | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | [Solution](SQL/Medium/sales-team-compensation.sql)| Oracle |
 | Medium | [2nd Ride delay](https://datalemur.com/questions/2nd-ride-delay) | [Solution](SQL/Medium/2nd-ride-delay.sql)| Uber |
