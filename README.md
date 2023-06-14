@@ -23,6 +23,7 @@ These repository contains solution for questions available on "https://datalemur
 | Easy | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](SQL/Easy/matching-skills.sql) | Linkedln |[Youtube](https://youtu.be/5HBgE9GW8N0)
 | Easy | [Revenue by product line](https://datalemur.com/questions/revenue-by-product-line) | [Solution](SQL/Easy/revenue-by-product-line.sql)| Nvidia |
 | Easy | [SQL page with no likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](SQL/Easy/sql-page-with-no-likes.sql)| Facebook |[Youtube](https://youtu.be/7kWWYAlyioE)
+| Easy | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](unfinished-parts.sql) | Tesla |[Youtube]()
 | Easy | [Trade in payouts](https://datalemur.com/questions/trade-in-payouts) | [Solution](SQL/Easy/trade-in-payouts.sql)| Apple |
 | Easy | [Tesla Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](SQL/Easy/tesla-unfinished-parts.sql)| Tesla |
 | Easy | [Laptop Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](SQL/Easy/laptop-mobile-viewership.sql)| New York Times |
