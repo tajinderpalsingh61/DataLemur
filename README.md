@@ -21,6 +21,7 @@ These repository contains solution for questions available on "https://datalemur
 | Level | Question | Solution | Company | Solution Video
 |:------:|------|---------|:---------:|:---------:|
 | Easy | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](SQL/Easy/matching-skills.sql) | Linkedln |[Youtube](https://youtu.be/5HBgE9GW8N0)
+| Easy | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](SQL/Easy/cities-with-completed-trades.sql)| Robinhood |
 | Easy | [Revenue by product line](https://datalemur.com/questions/revenue-by-product-line) | [Solution](SQL/Easy/revenue-by-product-line.sql)| Nvidia |
 | Easy | [page with no likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](SQL/Easy/page-with-no-likes.sql)| Facebook |[Youtube](https://youtu.be/7kWWYAlyioE)
 | Easy | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](unfinished-parts.sql) | Tesla |[Youtube](https://www.youtube.com/watch?v=ugT79g4L34w&t=83s)
