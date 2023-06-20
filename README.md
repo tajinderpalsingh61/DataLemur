@@ -30,9 +30,8 @@ These repository contains solution for questions available on "https://datalemur
 | Easy | [Laptop Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](SQL/Easy/laptop-mobile-viewership.sql)| New York Times |
 | Easy | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](SQL/Easy/duplicate-job-listings.sql)| Linkedin |
 | Easy | [Average Post Hiatus 1](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](SQL/Easy/average-post-hiatus-1.sql)| Facebook |
-| Easy | [Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](SQL/Easy/completed-trades.sql)| Robinhood |
 | Easy | [Avg Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](SQL/Easy/avg-review-ratings.sql)| Amazon |
-| Easy | [Click Through Rate](https://datalemur.com/questions/click-through-rate) | [Solution](SQL/Easy/click-through-rate.sql)| Facebook |
+| Easy | [App Click Through Rate](https://datalemur.com/questions/click-through-rate) | [Solution](SQL/Easy/app-click-through-rate.sql)| Facebook |
 | Easy | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](SQL/Easy/second-day-confirmation.sql)| TikTok |
 | Easy | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](SQL/Easy/cards-issued-difference.sql)| JPMorgan Chase |
 | Easy | [Alibaba Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](SQL/Easy/alibaba-compressed-mean.sql)| Alibaba |
