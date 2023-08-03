@@ -19,3 +19,20 @@ group by a.artist_name
 where artist_rank <= 5
 order by 2
 ;
+
+--- Another solution
+
+select artist_name, artist_rank FROM
+  (
+    SELECT a.artist_name , count(c.song_id) as cnt,
+    dense_rank() over(order by count(c.song_id) desc) as artist_rank
+    FROM artists a join songs b 
+    on a.artist_id= b.artist_id
+    join global_song_rank c
+    on b.song_id = c.song_id
+    where c.rank between 1 and 10
+    group by a.artist_name
+  ) as a
+where artist_rank <= 5
+order by 2
+;
